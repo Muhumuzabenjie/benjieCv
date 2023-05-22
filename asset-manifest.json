@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Muhumuzabenjie/benjieCv.git/static/css/main.35e005e2.css",
-    "main.js": "/Muhumuzabenjie/benjieCv.git/static/js/main.dc81c258.js",
-    "static/js/787.0514d194.chunk.js": "/Muhumuzabenjie/benjieCv.git/static/js/787.0514d194.chunk.js",
-    "static/media/new dp-01.jpg": "/Muhumuzabenjie/benjieCv.git/static/media/new dp-01.1814c29c0a2a61f967ab.jpg",
-    "index.html": "/Muhumuzabenjie/benjieCv.git/index.html",
-    "main.35e005e2.css.map": "/Muhumuzabenjie/benjieCv.git/static/css/main.35e005e2.css.map",
-    "main.dc81c258.js.map": "/Muhumuzabenjie/benjieCv.git/static/js/main.dc81c258.js.map",
-    "787.0514d194.chunk.js.map": "/Muhumuzabenjie/benjieCv.git/static/js/787.0514d194.chunk.js.map"
+    "main.css": "/benjieCv.git/static/css/main.35e005e2.css",
+    "main.js": "/benjieCv.git/static/js/main.5ca699e1.js",
+    "static/js/787.0514d194.chunk.js": "/benjieCv.git/static/js/787.0514d194.chunk.js",
+    "static/media/new dp-01.jpg": "/benjieCv.git/static/media/new dp-01.1814c29c0a2a61f967ab.jpg",
+    "index.html": "/benjieCv.git/index.html",
+    "main.35e005e2.css.map": "/benjieCv.git/static/css/main.35e005e2.css.map",
+    "main.5ca699e1.js.map": "/benjieCv.git/static/js/main.5ca699e1.js.map",
+    "787.0514d194.chunk.js.map": "/benjieCv.git/static/js/787.0514d194.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35e005e2.css",
-    "static/js/main.dc81c258.js"
+    "static/js/main.5ca699e1.js"
   ]
 }
